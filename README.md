@@ -1,6 +1,6 @@
 # MSTestPlayground
 
-When running the following command from bin\Debug folder: **vstest.console.exe MSTestPlayground.exe** I get the following results:
+When running the following command from bin\Debug folder: **vstest.console.exe MSTestPlayground.exe** I get the following results (see :[log.txt](log.txt))
 <blockquote>Microsoft (R) Test Execution Command Line Tool Version 16.11.0
 Copyright (c) Microsoft Corporation.  All rights reserved.
 
